@@ -81,7 +81,7 @@ testimonial:
       designation: "@sngose & @SudoProject evangelist at @BalaBit (@oneidentity)"
       image: "images/peter.jpg"
       content: "'My favorite #infosec conference: @passthesaltcon
-. It has less visitors than #FOSDEM has speakers, but I learned there more than at any other events."
+. It has less visitors than #FOSDEM has speakers, but I learned there more than at any other events.<br><br>"
 
     # testimonial item loop
     - name: "Ange Albertini"
