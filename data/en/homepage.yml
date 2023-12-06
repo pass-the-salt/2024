@@ -80,8 +80,8 @@ testimonial:
     - name: "Peter Czanik"
       designation: "@sngose & @SudoProject evangelist at @BalaBit (@oneidentity)"
       image: "images/peter.jpg"
-      content: "'My Favorite IT Security Event: Pass the SALT' - My latest blog describes why I love @passthesaltcon
-, points you to the recording (& blog) of my talk, and lists some of my favorite talks I listened to this year at the #conference."
+      content: "'My favorite #infosec conference: @passthesaltcon
+. It has less visitors than #FOSDEM has speakers, but I learned there more than at any other events."
 
     # testimonial item loop
     - name: "Ange Albertini"
