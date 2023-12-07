@@ -24,7 +24,10 @@ Maps: <a href="https://goo.gl/maps/FusMa2F2GoP2" >Google Maps</a> | <a href="htt
 ## Coming to the conference location from Lille center 
 
 .&nbsp; <b>metro:</b> take <b>line 1</b> at _"Lille Flandres"_ station and go to the _"4 Cantons Stade"_ stop : ~20 min<br>
-.&nbsp; <b>then short walk:</b> on the roundabout near the metro stop, just follow the _"Polytech Lille"_ on the traffic signs.<br><br>
+.&nbsp; <b>then short walk:</b> on the roundabout near the metro stop, just follow the _"Polytech Lille"_ on the traffic signs.<br>
+<img src="https://2024.pass-the-salt.org/images/roundabout.jpg" width="100%">
+<img src="https://2024.pass-the-salt.org/images/road-sign.jpg" width="100%">
+<br>
 More info about metro: [ilevia.fr](https://www.ilevia.fr/itineraires)
 <br><br>
 
