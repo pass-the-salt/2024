@@ -1,5 +1,5 @@
 ---
-title: "Practical"
+title: "Practical information"
 layout: "post"
 permalink: /practical/
 published: true
@@ -11,9 +11,9 @@ ref: Practical
 <a href="#coming-to-the-conference-location-from-lille-center">How to come</a> | <a href="#registration"> Registration</a> | <a href="#eat--drink--party">Eat, drink and party</a> | <a href="#network-access">Network access</a> | <a href="#safety--covid-information"> Safety & COVID</a>
 <br><br>
 
-## Address
+## Conference location
 
-![](/images/polytech-school.jpg)
+<img src="https://2024.pass-the-salt.org/images/polytech-school.jpg" width="100%">
 
 <a href="http://www.polytech-lille.fr/english-p4664.html">Polytech Lille engineer school</a><br />
 Avenue Paul Langevin <br> 59655 Villeneuve d'Ascq<br />
