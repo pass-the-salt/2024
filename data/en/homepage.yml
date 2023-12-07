@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Pass the SALT conference<br> > Lille, France<br> > July 3-5 2024"
+  title: "Pass the SALT conference<br> > Lille, France<br> Polytech school<br> > July 3-5 2024"
   content: ""
   image: "images/logo-pts23.png"
   button:

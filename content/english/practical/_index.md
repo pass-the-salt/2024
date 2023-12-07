@@ -13,6 +13,8 @@ ref: Practical
 
 ## Address
 
+![](/images/polytech-school.jpg)
+
 <a href="http://www.polytech-lille.fr/english-p4664.html">Polytech Lille engineer school</a><br />
 Avenue Paul Langevin <br> 59655 Villeneuve d'Ascq<br />
 
