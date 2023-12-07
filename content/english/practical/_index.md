@@ -13,12 +13,11 @@ ref: Practical
 
 ## Conference location
 
+
+<a href="http://www.polytech-lille.fr/english-p4664.html">Polytech Lille engineer school</a>:
+avenue Paul Langevin 59655 Villeneuve d'Ascq<br />
+Maps: <a href="https://goo.gl/maps/FusMa2F2GoP2" >Google Maps</a> | <a href="https://osm.org/go/0B1fyc2nJ-" >Openstreetmap</a> (<i>"École polytechnique universitaire de l'université Lille"</i>)<br>
 <img src="https://2024.pass-the-salt.org/images/polytech-school.jpg" width="100%">
-
-<a href="http://www.polytech-lille.fr/english-p4664.html">Polytech Lille engineer school</a><br />
-Avenue Paul Langevin <br> 59655 Villeneuve d'Ascq<br />
-
-<a href="https://goo.gl/maps/FusMa2F2GoP2" >Google Maps</a> | <a href="https://osm.org/go/0B1fyc2nJ-" >Openstreetmap</a> (<i>"École polytechnique universitaire de l'université Lille"</i>)   
 <br><br>
 
 
