@@ -25,9 +25,9 @@ Maps: <a href="https://goo.gl/maps/FusMa2F2GoP2" >Google Maps</a> | <a href="htt
 
 .&nbsp; <b>metro:</b> take <b>line 1</b> at _"Lille Flandres"_ station and go to the _"4 Cantons Stade"_ stop : ~20 min.<br>
 _(More info about metro: [ilevia.fr](https://www.ilevia.fr/itineraires))_<br>
-.&nbsp; <b>then short walk:</b> on the roundabout near the metro stop, just follow _"Polytech Lille"_ on the traffic signs.<br>
+.&nbsp; <b>then a 2min walk:</b> on the roundabout near the metro stop, just follow _"Polytech Lille"_ on the traffic signs and the line drawned on the map screenshot below. Links to the maps:  <a href="https://goo.gl/maps/FusMa2F2GoP2" >Google Maps</a> | <a href="https://osm.org/go/0B1fyc2nJ-" >Openstreetmap</a> <br>
 <img src="https://2024.pass-the-salt.org/images/roundabout.jpg" width="100%">
-<img src="https://2024.pass-the-salt.org/images/road-sign.jpg" width="100%">
+<img src="/images/road.png" width="60%">
 <br>
 
 <br><br>
