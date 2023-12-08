@@ -12,7 +12,7 @@ banner:
 ############################# description ############################
 description:
   enable: true
-  title: "A totally <span style=';'>free</span> conference.<br>dedicated to <span style='color:#D00063;'>Free Software & Security</span>.<br> Talks & workshops delivered <span style='color:#D00063;'>by experts</span>. In <span style='color:#D00063;'>English</span>."
+  title: "A totally <span style='color:#D00063;'>free, english spoken</span> conference <br>dedicated to <span style='color:#D00063;'>free software & security</span>.<br> Talks & workshops delivered <span style='color:#D00063;'>by experts</span>."
   image: "images/speaker01.png"
 
   # feature at the left of the image
