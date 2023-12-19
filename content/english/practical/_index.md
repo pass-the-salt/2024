@@ -78,7 +78,7 @@ To book trains: <br>
 **For pauses**: we will provide you free coffee/tea/juices pauses in the middle of each half day and some coffe. And also before conference start in the morning and the afternon. Note: we have no information about legacy French biscuits that may appear on the pauses tables ;-) 
 <br><br>
 
-**Social event**: we will communicate during the event the social event location. It will be held during Tuesday evening and to access, your badge will be required!
+**Social event**: we will communicate during the event the social event location. It will be held during Thursday evening and to access, your badge will be required!
 <br><br>
 
 ## Network access
