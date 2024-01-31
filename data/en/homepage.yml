@@ -104,14 +104,14 @@ sponsors:
   #    height: "210"
   #    width: "192"
   gold_sponsor_item:
-    # gold sponsors loop
-  #  - name: "Quarkslab"
-  #    designation: "GOLD sponsor"
-  #    image: "images/sponsors/quarkslab.svg"
-  #    content: ""
-  #    url: "https://www.quarkslab.com/"
-  #    height: "101"
-  #    width: "352"
+  # gold sponsors loop
+    - name: "Quarkslab"
+      designation: "GOLD sponsor"
+      image: "images/sponsors/quarkslab.svg"
+      content: ""
+      url: "https://www.quarkslab.com/"
+      height: "101"
+      width: "352"
   #  - name: "CEA SEC"
   #    designation: "GOLD sponsor"
   #    image: "images/sponsors/cea.png"
