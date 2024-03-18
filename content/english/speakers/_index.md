@@ -13,16 +13,7 @@ You will find on this page specific information for speakers (slides, rooms equi
 
 # Speakers dinner
 
-On Monday evening, we will have a lunch with all the speakers who have accepted to come and the org team.<br><br>
-
-It will be held at: "Las Tapas" restaurant - 116 Rue Saint-André, 59000 Lille<br><br>
-
-Maps : https://goo.gl/maps/K8A9W8556sAmgSe66 <br><br>
-
-**IMPORTANT** as shown on the map, it is at a **22min walk from the Lille Flandres train station**. And no public transportation to reach it. 
-So, if for any of you, **for any reason**, it is a problem to walk this duration, just raise your hand! We will book a Uber or Taxi for you, no problem for that!<br><br>
-
-It will start **at 8:00PM / 20h00**.<br><br>
+Not yet choosen by the organization team.<br><br>
 
 The dinner will be paid by the event, with a package for the drinks.<br><br>
 
@@ -55,10 +46,10 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 **Speaker deck template and format:** Pass the SALT does not provide nor require any kind of template. We prefer to receive PDF files. You can also provide LibreOffice format if you preferred. Powerpoint, anyone? You are at Pass the SALT, please ;-)
 <br><br>
 
-**Code of Conduct:** Pass the SALT has a [code of conduct](https://2023.pass-the-salt.org/code-of-conduct/) for attendees and for speakers too, obviously. Your words and your slides will have to follow it without exception. Thanks in advance!
+**Code of Conduct:** Pass the SALT has a [code of conduct](https://2024.pass-the-salt.org/code-of-conduct/) for attendees and for speakers too, obviously. Your words and your slides will have to follow it without exception. Thanks in advance!
 <br><br>
 
-**Logo:** you can use our logo on your speaker deck. The correct source for it is in this [repository]( https://github.com/pass-the-salt/2023-communication/tree/main/logo/). 
+**Logo:** you can use our logo on your speaker deck. The correct source for it is in this [repository]( https://github.com/pass-the-salt/2024-communication/tree/main/logo/). 
 <br><br>
 
 **IMPORTANT send us your speaker deck:** we will greatly appreciate if you can provide your slides before your talk or just after it. We try to provide them to all attendees (on-site and online ones) as soon as possible on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/).
