@@ -95,14 +95,14 @@ sponsors:
   enable: true
   title: "Sponsors"
   platinum_sponsor_item:
-    # platinum sponsors loop
-  #  - name: "Gandi"
-  #    designation: "PLATINUM sponsor"
-  #    image: "images/sponsors/gandi.png"
-  #    content: ""
-  #    url: "https://www.gandi.net/"
-  #    height: "210"
-  #    width: "192"
+  # platinum sponsors loop
+    - name: "Gandi"
+      designation: "PLATINUM sponsor"
+      image: "images/sponsors/gandi.png"
+      content: ""
+      url: "https://www.gandi.net/"
+      height: "210"
+      width: "192"
   gold_sponsor_item:
   # gold sponsors loop
     - name: "Quarkslab"
