@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "CFP: submit your proposal!"
-    link: "https://cfp.pass-the-salt.org/pts2024/cfp"
+    label: "Videos of the 2023 talks!"
+    link: "https://passthesalt.ubicast.tv/channels/#2023"
 
 ############################# description ############################
 description:
@@ -47,7 +47,7 @@ team:
   content:
     "Pass the SALT is brought to you by a small but enthusiast and dedicated team:<br>
     - **core team:** <a href=https://twitter.com/_cryptocorn_>@&#95;cryptocorn&#95;</a>, <a href=https://twitter.com/cbrocas>@cbrocas</a>, <a href=https://twitter.com/doegox>@doegox</a>, <a href=https://twitter.com/follc>@follc</a> and <a href=https://twitter.com/moutane>@moutane</a>.<br>
-    - **on-site volunteers:** <a href=https://twitter.com/abrianceau>@abrianceau</a>, <a href=https://twitter.com/acervoise>@acervoise</a>, <a href=https://twitter.com/cdpointpoint>@cdpointpoint</a> and Marc T.<br>
+    - **on-site volunteers:** <a href=https://twitter.com/acervoise>@acervoise</a>, <a href=https://twitter.com/cdpointpoint>@cdpointpoint</a>, Marc T. and Nathan.<br>
     - and all the **Polytech crew** for the perfect support work!"
 
 ############################# timeline ############################
@@ -57,9 +57,9 @@ timeline:
   title: "Timeline"
   content:
     "December 2023: announcement of the 2024 edition dates<br />
-    <span style='color:$primary-color'><b> >January 15, 2024: opening of the Call For Papers</b></span><br />
+    January 15, 2024: opening of the Call For Papers<br />
     March 31, 2024: closing of the Call For Papers<br/>
-    Late April, 2024: notification to the speakers<br/>
+    <span style='color:$primary-color'><b> >Late April, 2024: notification to the speakers</b></span><br/>
     May 1, 2024: publication of the program<br />
     May 1, 2024: opening of the booking interface<br />
     July 3 to 5, 2024 : the conference!"

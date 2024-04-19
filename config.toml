@@ -56,10 +56,10 @@ name = "About"
 url = "https://2024.pass-the-salt.org/#description"
 weight = 1
 
-[[menu.main]]
-name = "Call for Papers"
-url = "https://cfp.pass-the-salt.org/pts2024/cfp"
-weight = 2
+# [[menu.main]]
+# name = "Call for Papers"
+# url = "https://cfp.pass-the-salt.org/pts2024/cfp"
+# weight = 2
 
 # [[menu.main]]
 # name = "Slides"
