@@ -20,7 +20,7 @@ description:
     # feature item loop
     - title: "High quality talks"
       icon: "tf-ion-ios-mic"
-      content: "2023 edition hosted **22 talks** covering **9 Security topics** (supply chain, boot security, OSINT, network DFIR, pentest, reverser tooling etc). Talks are all delivered **by experts**."
+      content: "2024 edition hosts **21 talks** covering **10 Security topics** (WebPKI, DFIR & TI, Reverse, Network Detectection etc). Talks are all delivered **by experts**."
 
       # feature item loop
     - title: "Quality Networking in a friendly French atmosphere"
@@ -32,7 +32,7 @@ description:
     # feature item loop
     - title: "Workshops"
       icon: "tf-ion-ios-flask"
-      content: "In 2023, there were **3 workshops** on Syslog-ng, Scapy and Sanzu. They have been given **by a project developer/maintainer or an expert on the field**.<br>Come to discover and practice!"
+      content: "We will host no less than **9 workshops**. They are all be given **by a project developer/maintainer or an expert on the field**.<br>Come to discover and practice!"
 
       # feature item loop
     - title: "Previous editions"
