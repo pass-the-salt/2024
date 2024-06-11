@@ -47,7 +47,8 @@ team:
   content:
     "Pass the SALT is brought to you by a small but enthusiast and dedicated team:<br>
     - **core team:** <a href=https://twitter.com/_cryptocorn_>@&#95;cryptocorn&#95;</a>, <a href=https://twitter.com/cbrocas>@cbrocas</a>, <a href=https://twitter.com/doegox>@doegox</a>, <a href=https://twitter.com/follc>@follc</a> and <a href=https://twitter.com/moutane>@moutane</a>.<br>
-    - **on-site volunteers:** <a href=https://twitter.com/acervoise>@acervoise</a>, <a href=https://twitter.com/cdpointpoint>@cdpointpoint</a>, Marc T. and Nathan.<br>
+    - **on-site volunteers:** <a href=https://twitter.com/bloodytangerine>@bloodytangerine</a>, <a href=https://twitter.com/acervoise>@acervoise</a>, <a href=https://twitter.com/cdpointpoint>@cdpointpoint</a>, <a href=https://twitter.com/Sebdraven>@Sebdraven</a> and Nathan.<br>
+    - **video recording:** this year, we are so thankful to be able to rely on the expertise of <a href=https://x.com/Ministraitor>Cooper</a> for the recording of the talks 🙏<br>
     - and all the **Polytech crew** for the perfect support work!"
 
 ############################# timeline ############################
@@ -194,13 +195,13 @@ sponsors:
       height: "74"
       width: "160"
 
-    - name: "Ubicast"
-      designation: "Video capture/streaming partner"
-      image: "images/sponsors/ubicast.png"
-      content: ""
-      url: "https://www.ubicast.eu/"
-      height: "70"
-      width: "255"
+#    - name: "Ubicast"
+#      designation: "Video capture/streaming partner"
+#      image: "images/sponsors/ubicast.png"
+#      content: ""
+#      url: "https://www.ubicast.eu/"
+#      height: "70"
+#      width: "255"
 
 ############################# promo ############################
 promo:
