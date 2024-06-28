@@ -66,6 +66,9 @@ To book trains: <br>
 <br>
 > . we will give you a badge with your name and coins usable to get free drinks during the social event (thursday evening!).
 
+<br>
+
+**Workshops:**<br> Registration to the workshops will be done during the event under an old fashion way (paper and pen) at the desk on a first write/first served basis. All workshops have 15 slots.
 <br><br>
 
 ## Eat & drink & party!
@@ -96,8 +99,6 @@ When we will have these information, we will update this page :)
 At time of writing (December 2023), there is no longer mandatory measures for handling COVID outbreak in public and open space or inside buildings aswell. Pass the SALT rooms will so be freely accessible without any mask for example.
 <br><br>
 
-<br><br>
-
 **Rooms equipments** :<br>
 .&nbsp;**lecture hall**:  there is a ventilation system that is automatically activated when the temperature rises or when the CO2 reaches a certain level. In addition, polytech has several portable CO2 detectors and one will be placed prominently on the desk at the bottom of the lecture hall.
 <br>
@@ -105,7 +106,7 @@ At time of writing (December 2023), there is no longer mandatory measures for ha
 
 <br>
 
-**Pauses:** they will take place at the back entrance of the building, but outside, to be in an open space and not in a room. Obviously, if the weather is not on our side, the pause will be held inside the building with opened doors.
+**Pauses:** they will be held inside the building due to mandatory access control.
 <br><br>
 
 **Social event:** we will be have an access to a terrace. So, we will be able to get fresh air and not to stay inside the building during all the evening. 
