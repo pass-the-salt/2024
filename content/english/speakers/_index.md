@@ -9,11 +9,19 @@ ref: Speakers
 
 You will find on this page specific information for speakers (slides, rooms equipments, setup testing recommandation) and also, the speakers dinner and some not so trustable advices about hotels ;-) <br><br>
 
-**IMPORTANT:** **all other practical information** (conference location, how to come, on-site registration, eat/drink/social event ...) are located on the [general practical info page](/practical/).<br><br>
+**IMPORTANT:** **all other practical information** (conference location, how to come, **NEW:** access control, on-site registration, eat/drink/social event ...) are located on the [general practical info page](/practical/).<br><br>
 
 # Speakers dinner
 
-Not yet choosen by the organization team.<br><br>
+On Wednesday evening, we will have a lunch with all the speakers who have accepted to come and the org team.<br>
+It will be held at :<br><br>
+
+Las Tapas, 116 Rue Saint-André, 59000 Lille<br>
+Maps : [https://goo.gl/maps/K8A9W8556sAmgSe66](https://goo.gl/maps/K8A9W8556sAmgSe66) <br><br>
+
+**IMPORTANT** as shown on the map, it is at a 22min walk from the Lille Flandres train station. And no public transportation to reach it. So, if for any of you, for **any** reason, it is a problem to walk this duration, just raise your hand! We will book a Uber or Taxi for you, no problem for that! <br><br>
+
+It will start at 8:00PM / 20h00.<br><br>
 
 The dinner will be paid by the event, with a package for the drinks.<br><br>
 
@@ -64,7 +72,7 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 **Plugs:** on stage, you will have HDMI and VGA plugs for video signal and some electrical plugs.
 <br><br>
 
-**Feedback screens:** you will have one feedback screen at the back of the hall (use big size fonts!) but also two others screens right in front of you, on a table before the first row of attendees.
+**Feedback screens:** you will have one feedback screen at the back of the hall (use big size fonts!). We can not be sure to provide you also another feedback screen near the stage. Sorry for that.
 <br><br>
 
   <center><img src="/images/feedback-screen.jpeg" height="204" width="153"  alt="feedback-screen"></center>
@@ -77,7 +85,7 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 **screen and projector:** you will have a very recent screen and projector.
 <br><br>
 
-**network access:** every participant who has accepted it during registration process will received a network access (we work to get non filtered SSH output among other things). We will try to set up an ethernet switch with less filtered as possible Internet access. 
+**network access:** every participant who has accepted it during registration process will received a network access (we work to get non filtered SSH output among other things).  
 
 <center><img src="/images/workshop-room.jpeg" height="153" width="204"  alt="workshop room"></center> <br><br>
 

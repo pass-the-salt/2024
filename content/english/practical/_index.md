@@ -54,16 +54,17 @@ To book trains: <br>
 
 **Before coming to the conference:**
 <br><br>
-> Be registered online (registration will be opened in May 2024)
+> . Be registered online 
 <br>
-> Print your ticket or have the PDF version with you on your smartphone.
+> . Print your ticket or have the PDF version with you on your smartphone.
 
 <br>
 
 **On-site:**
-> Provide the PDF/printed ticket to the org members at the desk.
+> . **Important:** before entering Polytech building, **provide your registered name AND an ID card/passport to access control guys**.<br>
+> . inside the building, provide the PDF or printed ticket to the org members at the desk.
 <br>
-> We will give you a badge with your name and coins usable to get free drinks during the social event (thursday evening!).
+> . we will give you a badge with your name and coins usable to get free drinks during the social event (thursday evening!).
 
 <br><br>
 
