@@ -96,7 +96,6 @@ When we will have these information, we will update this page :)
 At time of writing (December 2023), there is no longer mandatory measures for handling COVID outbreak in public and open space or inside buildings aswell. Pass the SALT rooms will so be freely accessible without any mask for example.
 <br><br>
 
-Despite that situation, we will provide **free masks** and **hydroalcoholic gel** at the org desk and in the 2 rooms (lecture hall and workshops room). 
 <br><br>
 
 **Rooms equipments** :<br>

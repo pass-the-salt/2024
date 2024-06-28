@@ -77,7 +77,7 @@ The best advice we can share is for <b>the location of the hotel</b>: <b>try to 
 
   <center><img src="/images/feedback-screen.jpeg" height="204" width="153"  alt="feedback-screen"></center>
 
-**Recording:** your talk will be live streamed and recorded by our Ubicast friends. The video will then be uploaded to our [Ubicast Pass the SALT portal](https://passthesalt.ubicast.tv/) and also on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/).
+**Recording:** this year, your talk will be live streamed and recorded by [@Ministraitor aka Cooper](https://x.com/Ministraitor). The video will then be uploaded to our [Pass the SALT portal](https://passthesalt.ubicast.tv/) and also on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/).
 <br><br>
 
 # Workshop room
