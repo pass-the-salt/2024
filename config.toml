@@ -62,14 +62,14 @@ url = "https://cfp.pass-the-salt.org/pts2024/schedule/"
 weight = 2
 
 [[menu.main]]
-name = "Register"
-url = "https://pretix.eu/passthesalt/2024/"
+name = "Slides"
+url = "https://archives.pass-the-salt.org/Pass%20the%20SALT/2024/slides/"
 weight = 3
 
-# [[menu.main]]
-# name = "Videos"
-# url = "https://passthesalt.ubicast.tv/channels/#2023"
-# weight = 3
+[[menu.main]]
+name = "Videos"
+url = "https://passthesalt.ubicast.tv/channels/#2024"
+weight = 3
 
 [[menu.main]]
 name = "Practical information"
