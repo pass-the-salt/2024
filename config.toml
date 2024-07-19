@@ -72,6 +72,11 @@ url = "https://passthesalt.ubicast.tv/channels/#2024"
 weight = 3
 
 [[menu.main]]
+name = "Memories"
+url = "https://www.flickr.com/photos/yobibe/albums/72177720318671117/"
+weight = 3
+
+[[menu.main]]
 name = "Practical information"
 url = "https://2024.pass-the-salt.org/practical/"
 weight = 4
@@ -85,11 +90,6 @@ weight = 4
 name = "Sponsors"
 url = "https://2024.pass-the-salt.org/#sponsors"
 weight = 5
-
-[[menu.main]]
-name = "CoC"
-url = "code-of-conduct/"
-weight = 6
 
 [[menu.main]]
 name = "Archives"
