@@ -12,7 +12,7 @@ $icon-font: 'themefisher-font' !important;
     Common Css
 --*/
 body {
-  font-size: 14px;
+  /* font-size: 14px; */
   font-weight: 400;
   line-height: 25px;
   color: #3b4045;
@@ -46,20 +46,25 @@ h6 {
 
 h1,
 .h1 {
+  font-weight :bold;
   font-size: 44px;
   line-height: 56px;
+  color: #d00063;
 }
 
 h2,
 .h2 {
+  font-weight :bold;
   font-size: 30px;
   line-height: 35px;
+  color: #d00063;
 }
 
 h3,
 .h3 {
   font-size: 23px;
   line-height: 25px;
+  color: #d00063;
 }
 
 h4,
@@ -75,9 +80,13 @@ p {
 }
 
 ul {
-  padding: 0;
-  margin: 0;
+
+  padding: 10;
+  list-style-position: inside;
+/*  margin: 0;
   list-style: none;
+*/
+  font-size: 18px;
 }
 
 a {
@@ -555,7 +564,7 @@ textarea.form-control {
 /* content style */
 .content {
   * {
-    margin-bottom: 2px;
+    /* margin-bottom: 2px; */
   }
 
   a {

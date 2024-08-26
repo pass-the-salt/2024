@@ -1,302 +1,283 @@
 ---
-title: "2023 Conference report"
+title: "2024 Conference report"
 permalink: /annual-report/
 ref: report
 ---
 
-Pass the SALT is a free access, English spoken, 3-day conference dedicated to Free software and Security. This page is our annual report for the 2023 edition of the conference.<br><br>
+Pass the SALT is a **free access, English spoken, 3-day conference** dedicated to Free software and Security. It provides a single track of talks and some workshops in parallel.<br><br>
 
-After the synthesis below, you will find in this report a detailled view on the following topics: <br>
-**-** the <a href="#attendance">attendance</a>,<br>
-**-** the <a href="#content">content</a>,<br>
-**-** a more <a href="#analysis-of-the-2023-edition-content"> detailled analysis</a> of the 2023 edition content,<br>
-**-** the <a href="#attendees-feedback">attendees feedback</a>, <br>
-**-** the <a href="#speakers-feedback">speakers feedback</a> <br>
-**-** and the <a href="#conclusion">conclusion</a>. <br><br>
+This document is **our annual report for the 2024 edition** of the conference. We share all the figures, our insights and analysis about:
 
-## **1. Summary**<br>
+- the **[attendance](#attendance)**,
+- the **[conference content](#conference-content)**,
+- the **[attendees feedback](#attendees-feedback)**,
+- the **[speakers feedback](#speakers-feedback)**,
+- the **[budget and sponsoring](#budget--sponsoring)**,
+- some **[org team thoughts](#some-org-team-thoughts)**.
 
-**<span style="color:orange">Conference content</span>**<br> 
-The quality of the talks has been really good (see below). A notable fact about the 2023 edition was its acceptance rate which dropped to 55% vs 69% in 2022. Another special fact encountered during the CFP is that for speakers we contacted directly among big tech companies, we faced a lack of conference budget given by the companies even to their top developers.<br><br>
+Throughout this document, you will find:
 
-🥡 Takeaway: 
+- **what has worked** during the edition,
+- the **areas for improvement**,
+- **some thoughts** from the org team about **first collaborations**, **team evolutions** and **kinds of speakers** you can cross at the conference.
 
-**- Quality and diversity of the talks:** they have been of **high quality and appreciated** (95% of perfect or good content level ). For example, new session topics such as supply chain security or boot security have been very well received. <br>
-**- Lack of conference budget given by large tech companies to speakers:** we will monitor if it is a structural move from these corps to put cost on the conference side, or not. We don't endorse this move to transfer their travel budget on the conference/sponsor side.<br><br>
+## **Attendance**
 
-**<span style="color:orange">Attendance</span>**<br>
-135 people registered (2022: 156), 108 came (103). So the **no-show rate fell to 20% vs 33% in 2022**.A vast majority of people attended all along the three days. <br><br>
+In this section you will find all figures and our feedback about the attendance of this edition:
 
-🥡 Takeaway:<br>
-**- Low no-show rate & attendance:** we have been **really pleased** to lower the no-show rate to 20% which is a good value for a free entrance conference. It has also been a real pleasure to have **a majority of people attending all along the event**. <br>
-**- Communication:** nevertheless, in 2024 we're going to **improve our communication** to target **150-200 registrations**.<br>
-**- Streaming:** it has been stable and really used this year (152, 159 and 80 online connections on the 3 days for an average watching time of 25 min).<br><br> 
+- **176 people** booked their seat.
+      In 2023: 135, 2022: 156
+- **128 people** were physically present at the conference.
+      In 2023: 108, 2022: 103
+- **No-show rate: 27%**
+      In 2023: 20%, 2022: 33%
 
+We were really happy to see more people coming to our conference this year:
+- +30% of registered people,
+- **+18% of attendees** present on the D day.
 
-**<span style="color:orange">Experience </span>**<br>
-100% of the attendees described their experience **as perfect or good** and all of them declare that, according to this year's experience, they would like to come back in 2024. We also have seen **a lot of warmth, exchange and enthusiasm** among attendees! Figures come from the post-event survey.<br><br>
+Aside from the content of the conference, we can see in these positive numbers the impact of the efforts we've put into communication this year:
+- **channels:** we used 3 social networks (X, Mastodon, **<span style="color:#d00063">[new]</span>** LinkedIn) for each communication we made,
+- **frequency:** regularly since January, **<span style="color:#d00063">[new]</span>** weekly since May,
+- **targets:** **<span style="color:#d00063">[new]</span>** we tried to reach, without much success, local infosec communities.
 
-**<span style="color:orange">Collaboration</span>**<br>
-We make this event in order to see  collaborations between developers and researchers emerge during and after the conference: <br>
-**- Collaboration:** this year we have seen a feature born during Q/A: **including OpenWRT images in CIRCL Hashlookup service and free software**. We track such collaborations on our [achievements page](https://www.pass-the-salt.org/achievements/#contributions), have a look! 
-<a href="https://twitter.com/adulau/status/1677661654127968258"><img src="/images/collab.jpg"  height=50% width=50% alt="main-screen"></a>
-<br>
-**- Podcast:** Maya Costantini has been invited after [her talk](https://cfp.pass-the-salt.org/pts2023/talk/9XNUZL/) at PTS23 to speak about Sigstore during [an episode](https://www.nolimitsecu.fr/sigstore/) of the FR podcast NoLimitSecu.<br><br>
-🥡 Takeaway:<br>
-**-** We are very pleased to see year after year a **very good level of exchange and collaboration**. <br>
-**-** We were also really happy to see **speakers giving their first talk at PTS crossing the road of seasoned speakers**. 
-And when it is a shared feeling by these speakers, it is even better. Illustration by the feedback received from Rémi Matasse aka @_remsio_ (Synacktiv): <i>“Thank you for your investment I'm really glad PTS was the first event I attended as a speaker :)”</i><br><br>
+Regarding the relatively low number of attendees in general, there is a lack of students able to attend the conference at this time of the year, due to summer vacation and internships. This is one way to explain the difference with others free access conferences.
 
-  <table>
-  <tr>
-    <td style="background-color:orange;color:white; font-size:20px;"><b>Dear speakers, attendees, sponsors and partners, we really want to thank you for your support which made all of this possible 🙏 <br> We really hope the results of this edition will encourage you to come back and be part of the aventure of Pass the SALT 2024 💚</b></td>
-  </tr>
-  </table><br>
+**Share of attendees that previously came to Pass the SALT: 41%** (2023: 44%, 2022: 28%).<br>
+*source: booking form*
 
-## **2. Detailed event analysis**
+Since last year, around 60% of the attendees are new ones and figures seem to be stable. 
 
-<br>
-
-**<span id="attendance" style="color:orange">Attendance</span>**<br>
-
-**- 135 people** booked their seats.<br>
-In 2022 they were 156.<br>
-**- 108 people** finally came to the conference.<br>
-In 2022: 103.<br>
-**- No-show rate:  20%**. <br>
-In 2022, it was 33%.<br>
-This **brings us back to the Pre-COVID rate**. We are _really happy_ about this!<br><br>
-
-We have faced a real fear of closed spaces among some attendees but also among some potential speakers (directly confirmed by some of them). COVID period impacts are not totally gone!<br><br>
-
-But, for the low number of registrations, the problem is also on our side. It  has been confirmed by several feedbacks from attendees: our communication came late, reached not enough people and  totally ignored the local cybersecurity groups around Lille (IRL).<br><br>
-
-🛠️ Improvements for 2024:<br>
-As pointed out in the synthesis, we are going to reinforce our communication by:<br>
-**-** **starting it earlier** ; <br>
-**-** using **more diverse social networks** ;<br>
-**-** and pushing **information to local IRL cybersecurity groups** around Lille .<br><br>
-
-**Language:** attendees that can speak French: **90%** (2022: 91%).<br>
-_source: booking form_<br>
-Since the COVID period, we have not fully recovered our audience usually coming from Germany, Netherlands or Belgium. We need to push more communication toward these potential attendees. But it is not an easy task because we do not have a lot of connections in these countries.<br><br>
-
-**Share of attendees that have already attended Pass the SALT: 44%** (2022: 28%).<br>
-_source: booking form_<br>
-We are reaching a good level of people that have already attended the event in the past, which is a good sign in our opinion. But a majority of them are newcomers which is good too 🙂 . Not a perfect balance but not far!<br><br>
+We think this is a good balance between:
+- people who come on a regular basis for the quality of the talks, workshops, networking and/or atmosphere. They provide the stability and share **their knowledge of the culture of the conference** to newcomers,
+- new attendees who come to discover the conference and who bring **their freshness**, **their expectations** and their **new ideas**!
 
 **Occupation:**<br>
-_source : booking form_<br>
-**-** private sector: 60% (2022: 55%)<br>
-**-** public sector:  21% (15%)<br>
-**-** students:        8% (19%)<br>
-**-** academic:        7% (8%)<br>
-**-** others:          4% (3%)<br><br>
+*source : booking form*
 
-**<span id="content" style="color:orange">Conference content</span>**<br><br>
+- private sector: 71% (2023: 60%, 2022: 55%)
+- public sector: 14% (21%, 15%)
+- students: 6.5% (8%, 19%)
+- academic: 4.5% (7%, 8%)
+- others: 4% (4%, 3%)
 
-The event took place at the Lille Polytech engineering school from the 3rd to 5th of July, 2023.<br>
-**- 22 talks** (35-min or 20-min long - 22 in 2022) ;<br>
-**- 3 workshops** (5 in 2022) with in particular a great success among the attendees of the Scapy workshop ;<br>
-**- <span style="color:orange">New:</span> 1 keynote and 1 closing talk**. 2023 is the second year in a row we have a keynote, with the addition of a closing talk this year. We are really pleased with this because it is not so obvious for such a small event like Pass the SALT to set up these ones ;<br><br>
+**Language:** attendees that can speak French: **91%** (2023: 90%,2022: 91%).
+*source: booking form*
+It is a very stable percentage since the COVID period. As we said last year, we have not fully recovered our audience usually coming from Germany, Netherlands, Belgium or UK. We would be really pleased to get in touch with networks in these countries. **<span style="color:#d00063">[help needed]</span>** So if you have any way to reach them, let's get in touch! 🙂
 
-**Speakers geographical distribution:**<br>
-**-** France :		74% (77% in 2022)<br>
-**-** Europe: 		22% (23%)<br>
-**-** Rest of the world: 	4%  (0%)<br><br>
+## Conference content
 
-**Streaming:** <br>
-Talks have been **streamed all along the 3 days**. <br>
-Average watching duration per connection: **25 min**. It matches approximately with the duration of a talk. It means that people are using the streaming to attend the talk they want. It is another way to attend PTS and **we are happy** to reach such attendees figures.<vr>
+First, let's share some raw figures about talks and workshops of this year's edition!
+- **21 talks** (2023: 22, 2022: 22)
+- **9 workshops** (2023: 3, 2022)
 
-  <table class="tg" style="table-layout:auto">
-  <thead>
-  <tr style="background-color:orange;color:white;">
-    <th style="width:1px; white-space: nowrap;" class="tg-x6qq"></th>
-    <th class="tg-x6qq">Monday</th>
-    <th class="tg-x6qq">Tuesday</th>
-    <th class="tg-x6qq">Wednesday</th>
-  </tr>
-  </thead>
-  <tr>
-    <td style="width:1px; white-space: nowrap; background-color:orange;color:white;"><b>Number of online connections</b></td>
-    <td style="background-color:white;color:black;">152</td>
-    <td style="background-color:white;color:black;">159</td>
-    <td style="background-color:white;color:black;">80</td>
-  </tr>
-  </table>
+### Call for papers
+As you can see, all figures are quite stable aside from the notable exception of the rise of the number of workshops for this edition. 
 
-**Video recordings:**<br>
-Videos of the talks [have been put online](https://passthesalt.ubicast.tv/channels/#2023) **each evening**. It almost can be seen as a normal/boring thing but if you look around at others conferences, even far bigger and professionaly organized ones, videos publishing can often be really delayed! We are very proud of this very fast publishing 🚀 only being possible due to hard work from our video team and video partners 💪 <br><br>
+Since the launch of the conference, we are committed to release in open source everything about the conference (figures, process like badge conception etc).  
 
-**Slides**<br>
-Slides have been collected and made available at the end of the conference aside the corresponding videos and on [our archive site](https://archives.pass-the-salt.org/Pass%20the%20SALT/2023/slides/).<br><br>
+Let's find below our CFP figures for all our editions (also available on our [main website](https://www.pass-the-salt.org/about/)).
 
-#### **Analysis of the 2023 edition content**
+| Year (IRL editions)  | Submissions   | Accepted      | Invited talks among accepted ones | Acceptation Rate |
+| -------------        | ------------- | ------------- | --------------------------------- | ---------------- | 
+| **2024**             | **39**        | **30**        | **2 (06.0%)**                     |  **77.0%**       |
+| 2023                 | 45            | 25            | 3 (12.0%)                         |    55.5%         |
+| 2022                 | 39            | 27            | 5 (18.5%)                         |    69.2%         |
+| 2019                 | 46            | 35            | 3 (12.0%)                         |    76.0%         |
+| 2018                 | 37            | 29            | 2 (06.0%)                         |    78.3%         |
 
-**Pass the SALT talks selection model**<br>
-We mix a public call for paper (CFP) and a small number of invited talks.<br>
-Why doing it that way? <br>
-Running a public CFP allows everybody to submit and brings more diversity into the talks and speakers lineup. On the other hand, invited talks are a way for us to give exposure to topics and/or speakers that, according to the organization team, deserve it.
-However, invited talks are an adjustment variable and the vast majority (>80%) of the event content comes from the CFP. Invited talks have to be seen as a “Director cut” feature for the organization team in order to give a “color” to its event 😇.<br><br>
+*Our feedback:*
+> - **Workshops:** this year, we have been really surprized and pleased by the number of **submitted and accepted workshops** (11, 9). All of them have found their audience (from 6 to 15 attendees, our upper limit). It is a great achievement for this edition!
+> - **Keynote/closing talk:** for PTS24 we haven't found any fitting topic or speaker. We are definitely not a conference large enough to regularly attract speakers able to give such talks on our stage. When the right content and speaker will be available, we will have a keynote at Pass the SALT. In our opinion, it is the right way to proceed to respect our attendees and it is perfectly OK for us!
+> - **Acceptance rate:** this year, it is quite high compared to the 2022 and 2023 figures. It comes mainly from the fact we had a lot of workshops submitted and (almost all) accepted. When we look only at the talks, the acceptation rate drops a little (*72%*) to reach a level closer to previous years.
+> - **Invited talks:** we are proud to have a hybrid talks selection process (CFP + invited talks). It allows us to mix the openness of a Call for Papers with the ability to give a special focus to our current edition with a limited number of invited talks (2 for this year).
 
-**Acceptation rate**<br>
-  <table class="tg" >
-  <thead>
-  <tr style="font-weight:bold; background-color:orange; color:white;">
-    <th class="tg-x6qq">Year</th>
-    <th class="tg-x6qq">Submissions</th>
-    <th class="tg-x6qq">Accepted</th>
-    <th class="tg-x6qq">Invited talks among accepted ones</th>
-    <th class="tg-x6qq">Acceptation Rate</th>
-  </tr>
-  </thead>
-  <tr style="font-weight:bold; background-color:white;">
-    <td class="tg-0pky">2023</td>
-    <td class="tg-0pky">45</td>
-    <td class="tg-0pky">25</td>
-    <td class="tg-0pky">3 (12%)</td>
-    <td class="tg-0pky">55.5%</td>
-  </tr>
-  <tr style="background-color:white;">
-    <td class="tg-0pky">2022</td>
-    <td class="tg-0pky">39</td>
-    <td class="tg-0pky">27</td>
-    <td class="tg-0pky">5 (18.5%)</td>
-    <td class="tg-0pky">69.2%</td>
-  </tr>
-  <tr style="background-color:white;">
-    <td class="tg-0pky">2022</td>
-    <td class="tg-0pky">39</td>
-    <td class="tg-0pky">27</td>
-    <td class="tg-0pky">5 (18.5%)</td>
-    <td class="tg-0pky">69.2%</td>
-  </tr>
-  <tr style="background-color:white;">
-    <td class="tg-0pky">2019</td>
-    <td class="tg-0pky">46</td>
-    <td class="tg-0pky">35</td>
-    <td class="tg-0pky">3 (12.0%)</td>
-    <td class="tg-0pky">76.0%</td>
-  </tr>
-  <tr style="background-color:white;">
-    <td class="tg-0pky">2018</td>
-    <td class="tg-0pky">37</td>
-    <td class="tg-0pky">29</td>
-    <td class="tg-0pky">4 (14.0%)</td>
-    <td class="tg-0pky">78.3%</td>
-  </tr>
-  </table><br><br>
+### Speakers geographical distribution
 
-**2023 Highlights**<br><br>
+| Year      | France   | (rest of) Europe | (rest of the) World |
+| --------- | -------- | ---------------- | ------------------- |
+| **2024**  | **61%**  | **30%**         | **9%**              |
+| 2023      | 74%       | 22%             | 4%                  |
+| 2022      | 77%       | 23%             | 0%                  |
 
-**- Number of proposals:** we are back to Pre-COVID period figures, which is a good point ;<br><br>
+We are pleased to see (a little) more non French speakers coming to Pass the SALT. We will continue to promote the conference outside France in order to improve our speakers geographical diversity :)
 
-**- Quality:** as each year, we have to deal with a relatively constant number of proposals which are out of scope of our CFP constraints (Security and Free Software). But outside this fact, the quality of the proposals has been good to very good ;<br><br>
 
-**- Sessions:**<br>
+### Recording, streaming and slides
+- Talks have been streamed without any major issue. After the conference, we got feedback from many friends having been able to remotely attend part of the conference or even watch all talks flawlessly!
+- **This year again**, we are proud to say that the **videos of all talks** of each day [have been put online](https://passthesalt.ubicast.tv/channels/#2024) **each evening**. Hats off to the team members involved 👏
+- **All slides** have also been [put online](https://archives.pass-the-salt.org/Pass%20the%20SALT/2024/slides/) at the end of the conference on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/) 🚀
 
-**.** Pass the SALT is a single-track conference (with workshops done in parallel of the talks). We group talks into sessions (pentest, hardware and low level, network security etc) in order to provide to attendees, IRL and through streaming, a comfortable way to attend the event ;<br>
+*Our feedback:*
+> - **(near) Emergency video team replacement.** This year, due to a late agenda conflict, our friends and partners from [Ubiscast](https://www.ubicast.eu/), who previously managed on-site recording and streaming of the conference, **haven't been able to come on site**. It was quite a problem for us because the organization team does not have the manpower nor the know-how to record/stream an event like Pass the SALT.
+> - As we are big fans of [Cooper](https://x.com/ministraitor)'s [recording work](https://administraitor.video/) during many infosec conferences we have attended/talked, we asked him (very lately!) if he would be able to come to record our talks. And guess what? He said *"Yes, I can!"* 😍
+> - And everything worked like a charm! Cooper did a fantastic job (recording, fixing all potential problems with the help of blazing fast Laurent, the Polytech video guy). 
+> - We are **so thankful to Cooper for his commitment, his hard and quality work and his willingness to interact smoothly with all team members!** Thanks so much from all the team! 🙏
+> - The **Ubicast team** has been there to answer all our questions and to provide the infrastructre and the video portal to do the streaming. **Thanks a lot** to us!
+> - Finally, hats off to the volunteers in the audience who helped out with the video camera during the conference!
 
-**. <pan style="color:orange;">New:</span>** this year, in order to give exposure to two security hot topics, **we launched 2 new sessions about boot security and supply chain security**. They have been very well received by the audience as we can see on the feedback form results below.<br><br>
+### 2024 highlights
 
-<img src="/images/sessions.jpg"  height=25% width=25% alt="main-screen"><br><br>
+- **Sessions:** after boot security security and supply chain security in 2023, this year again, we managed to setup a new session alongside regular ones (DFIR, low level, reverse, network, pentest, crypto etc): **WebPKI and Trust**. 
 
-**- Speakers:** as previously said, like last year, we had hard times to convince foreign speakers to come to our conference due to two main causes:<br>
-**.** Some of them told us that they have ot restarted going to conferences due to fears or new habits in this post COVID period.<br>
-**. <pan style="color:orange;">Important 2023 new fact:</span>**<br>
-A lot of the **large tech companies seem to have decided to drastically reduce the conference budget of their employees**. The budget cuts impact all types of employees, even main developers of major FLOSS projects. These companies want the conferences to pay for the travel costs of their employees. This huge travel budget reduction can be correlated with massive layoffs seen during the same period among these companies. We hope the situation will improve in the near future. We will monitor it closely because it impacts us heavily and we don't want to endorse this new pressure put on conferences. In other terms it is not the role of our sponsors to cover the costs of those other companies that are making huge profits and do not want to pay for the visibility of their own employees.<br><br>
+During this session, we had the opportunity to receive on the same stage Aaron Gable and Philippe Boneff, tech leaders of two major projects for Web security: Let's Encrypt and Certificate Transparency software at Google. This new session seems to have been really appreciated by attendees and surely, by the team. 🙏
 
-**<span style="color:orange">Attendees and Speakers Feedback</span>**<br>
+![sessions](/images/report-sessions.png)
 
-All the graphics/figures below are coming from the post-event survey.<br><br>
+- **Speakers:** unlike for the 2023 edition, we haven't faced any specific problem during our contacts with potential speakers coming from big tech companies. The main reason for not being able to come has been (personal or professional) **agenda conflicts** which is totally legit. We also experienced pleasant situations with **very open minded speakers** who didn't know PTS previously and decided to submit to the CfP right after our contact or even better, just after learning PTS exists!
 
-#### **Attendees feedback**
+## Attendees and Speakers Feedback
 
-**Event experience**<br>
-The general event experience of our attendees has been very good (100% good or perfect).<br>
+All the graphics/figures below are coming from the post-event survey.
 
-<img src="/images/experience.jpg"  height=50% width=50% alt="main-screen"><br><br>
+### Attendees feedback
 
-When we asked which aspects of the organization were convenient, attendees replied they appreciated almost all of them.
-The 4 pauses per day and the social event have been particularly appreciated by attendees and speakers to interact with new and old friends.<br><br>
+**Event experience**
+The general event experience of our attendees has been very good (31% good or 69% perfect). And every single attendee would like to come back next year!
 
-**Talks and workshops**<br>
-About the talks and workshops, the attendees seem to have also appreciated the content level. People have appreciated:<br>
-. talks grouped into sessions<br>
-. technical expertise demonstrated by speakers<br>
-. the 15+ rumps (lightning talks)<br>
-. new sessions (boot security, supply chain security)<br>
+![experience](/images/report-experience.png)
 
-<img src="/images/content.jpg"  height=50% width=50% alt="main-screen"><br><br>
+Attendees globally liked the event (communication, venue, pauses).
 
-🛠️ List of **suggested improvements** by 2022 attendees **for 2023 edition:**<br>
-**- Better management of the workshops registration:** in 2022, it was done locally through a manual registration on a paper sheet with no guarantee to have seats before coming.<br>
-**- Streaming:**<br>
-. Better indication on the website for easy jumping into the streaming,<br>
-. Better streaming monitoring in order to limit its disruption length when it happens. It happened twice and only noticed once, reported by viewers.<br><br>
+*Positive points underlined by attendees:*
+- ease and quality of the networking with relaxed and open minded speakers,
+- accessibility of the venue, 
+- power available in many spots of the main room.
 
-👍 **Answers provided during the 2023 edition:**<br>
-**- Workshops:** <br>
-<span style="color:orange">**. New:**</span> We have set up an online registration for workshops in parallel to the event registration. Registered people had to come 5 min minimum before the start of their workshop. After this deadline, the organization gave back the unused registered slots to local attendees who would like to attend the workshop but did not register upfront.<br>
-**- Streaming:**<br>
-<span style="color:orange">**. New:**</span> We modified the front page of the website in order to provide easy and clear access to the streaming,<br>
-<span style="color:orange">**. New:**</span> We set up a new Signal group between the organization and the video teams in order to provide better monitoring and to be more responsive in case of problems. It worked very well and we managed to provide a very good global video experience to online attendees.<br><br>
+But 2 points were cited half less than other: foodtrucks for lunch and the social on 2nd day evening.
 
-🛠️ List of **suggested improvements** by 2023 attendees **for 2024 edition:**<br>
-**-** Clearer practical info page on the website ;<br>
-**-** Improve the event communication ;<br>
-**-** Improve the catering offer during the midday break (especially veggie) <br>
-**Organization team explanation:** we had to face a cancellation of one food truck only a few days before the event. In the hurry of finding a new one, we forgot to ask the new one to provide a veggie option in their menus. We will try to be more rigorous on our midday break management in order to provide a better experience to our attendees. <br>
-**-** Provide a way to interact with speakers after their talk (feedback, evaluation etc).<br><br>
+*Foodtruck:* we can share some facts about the foodtruck. We faced real problems to have a different foodtruck for the second day. At the end (less than a week before the event), we had to fallback on having the same foodtruck for day 2. Not a perfect solution, but at least, unlike last year, it provided several veggie options :) 
 
-#### **Speakers feedback**
+*Social event:* it is less understandable for us. Unlike the speakers dinner (more on this below), we have been received by the 3 Brasseurs bar in a large dedicated space with an open terrace. **New** We delivered this year a lot of free lunch tokens (for each table and more) in addition to 2 free drinks. The day after, we even received good feedback IRL 🤷‍♂️
 
-On the speaker's side, the event seems to have been a very good experience.
+🛠️ Let's browse **2023 list of suggested improvements** and look at the **things we deployed to answer them**:
+- Clearer practical info page on the website ;<br>
+  **> org answer:** this year, we provided more detailled info page and put way more links to it on our different websites.
+- Improve the event communication ;<br>
+  **> org answer:** we communicated on 3 different social networks (X, Mastodon and **[new]** this year, on LinkedIn). We communicated on these networks regularly since January, weekly since May.
+- Improve the catering offer during the midday break (especially veggie)<br>
+  **> org answer:** as explained upper, we didn't manage to have a different foodtruck for the second. But it provided several veggie options to attendees.
+  
+🛠️ List of suggested improvements by our attendees  **after this year edition**:
+- **chat/hack zone:** add a space for it in the central alley <br>
+  **> org:** nice and legit proposal, will work on it,
+- **more speakers diversity:** _"... because it was a little bit "~30/40 years old white male" "_ <br>
+  **> org:** a recurrent and completely legitimate request but a hard one 😔 We will try harder (and differently also!),
+- **luggages room:** having one would be more comfortable <br>
+  **> org:** sure. This year, school provided us a room but it was too far into the building to be practical and safe. We will try to do better next year,
+- **branding:** in order to emphasize the own and unique soul of the conference, provide more branding with big banners at the front of the school, in alley, into the main room etc. Maybe also some merchandising<br>
+  **> org:** it requires more expenses (for branding) and a lot of added work for merch but we will look at it carefully 👍️,
+- **start:** starting later on the first day to enable people coming from Paris to arrive more comfortably <br>
+  **> org:** will try too. We also currently don't know if we will come back on a conference start on Monday 2:00 PM like before or not,
+- **lack of students:** some of you suggest that students may be perfect targets for a lot of talks and workshops of the conference. And it was so a surprize for you to not having more of them in the attendance<br> 
+  **> org:** unfortunately, in early July, most of the students have left the school to go back to home or to do internship in companies.
 
-<img src="/images/speakersxp.jpg"  height=75% width=75% alt="main-screen"><br><br>
+**Talks and workshops**
 
-Good points that were mentioned:<br>
-**-** the quality of the exchanges between the speakers and the audience ;<br>
-**-** the high level of expertise demonstrated on stage all along the 2,5 days ;<br>
-**-** rich moments lived during the speakers dinner.<br><br>
+![talks level](/images/report-talks.png)
 
-<img src="/images/speakers-dinner.jpg"  height=75% width=75% alt="main-screen"><br><br>
+- Attendees appreciated the high quality level of both the talks and workshops,
+- The [only talk](https://passthesalt.ubicast.tv/videos/2024-shufflecake-aka-truecrypt-on-steroids-for-linux/) not live delivered but previously recorded by its speaker (due to private reasons) has been really appreciated with its very dynamic and interactive remote live Q/A session. Thanks [Tommaso](https://www.linkedin.com/in/tommasogagliardoni/?originalSubdomain=ch) for this effort and your commitment 👍️ 
 
-🛠️ List of **suggested improvements** by 2022 speakers **for 2023 edition**<br>
-**- Outcome of the CFP:** it would be useful to receive as a speaker (rejected or accepted) a detailed overview of the different evaluations of the proposal by the reviewers. It would be a way to improve as a submitter and as a speaker. <br>
-**- Speakers dinner without mandatory seating**<br>
-**- Provide a hotel list**<br><br>
+![tommaso](/images/report-tommaso.png)
 
-👍 **Answers provided during the 2023 edition:**<br>
-**- CFP:** <span style="color:orange">**new**</span> we provided feedback from the review committee for all submissions, accepted or not, in order to improve the future submissions of the speakers and/or to guide the speaker for its accepted talk delivery on stage.<br>
-**- Speakers dinner:** it has been held in a room where you can sit but also stand up and circulate from people to people. Unfortunately, the room was noisy and not large enough to be fully convenient. We will try to improve this point next year.<br>
-**- Hotel list:** <span style="color:orange">**new**</span> on the dedicated web page to the speakers, we create a section providing the list of the hotels we already have used in Lille, with our appreciation.<br><br>
+### Speakers feedback
 
-🛠️ List of **suggested improvements** by 2023 speakers **for 2024 edition**<br>
-**- Better Wi-Fi experience:** we definitely failed in providing a good Wi-Fi connection to our speakers, which led to some failures during demos for example. We apologize for this and we will work harder next year to provide a much better experience on this aspect ;<br>
-**- A way to get feedback from attendees** about their talk ;<br>
-**- A closer feedback screen** during talks and rumps.<br><br>
+![speakers experience](/images/report-speakers.png)
 
-## **3. Conclusion**
+Speakers have globally really appreciated to:
+- come to the event to deliver their talk/WS, 
+- attend others talks and interact during social moments with speakers of their session but also those coming from other communities (low level and reverse, crypto, PKI, network and system...).
 
-Due to the support of all sponsors, partners, speakers and attendees, we have been able to make Pass the SALT happen again. And we think it happened in a very good way!<br><br>
+🎁 The reward bag (with of course, some grams of flower of salt inside 😉) we provided to reward our commited speakers has been really appreciated too!
 
-Attendees and speakers have really enjoyed the event. They acknowledged the good balance between the technical expertise, the diversity of the security topics covered and the rich moments of interactions lived between all participants.<br><br>
+But there is always room for improvement :)
 
-We try to improve the event each year by listening to the attendees and speakers feedback and taking actions to answer it. We also try to _**innovate**_. For example, we introduced two new initiatives to our event this year:
+🛠️ List of **suggested improvements by 2024 speakers**:
+- **speakers dinner:** it was unanimously identified as the main area for improvement this year. Too small, too noisy, food, despite being good, came too late in the evening etc. <br>
+  **> org:** we totally agree. We will look for a different and bigger location for the next edition.
+- **wifi:** despite improvements since previous editions, access to the wifi seems to have been tricky sometimes, notably in the workshop area.<br>
+- **feedback on talk/workshop content and delivering:** some of you have asked if it would be possible to get feedback from attendees. <br>
+  **> org:** a totally legit question but we have not yet found the medium to do it efficiently. It is a work in progress on our side. <br>
+- **Q/A:** a speaker has been complaining about the lack of time given to attendees when they have no question coming quickly enough after the talk.<br>
+  **> org:** usually, in this case, the person chairing the session always asks the first question. We will try to be more vigilant to give more opportunity to attendees to ask their questions.
 
-<span style="color:orange">**. New</span> Privacy:** during the check-in, we proposed to the attendees who do not want to appear online, to get a lanyard with a special color (azure). We then explained this specificity to all the attendees during the launching talk in order to ensure they respect it when taking pictures.<br>
-<img src="/images/privacy-lanyard.jpg"  height=50% width=50% alt="main-screen"><br><br>
-<span style="color:orange">**. New</span> Speaker gift:** we decided to provide to all speakers (and org volunteers!) a small bag with some gifts produced in France (some chocolates, local biscuits and a notebook) in order to thank them for their work and their participation in the event.<br><br>
+## Budget & Sponsoring
 
-  <table class="tg">
-  <tr>
-    <td style="background-color:orange;color:white;font-size:20px;">
-    <b>We hope you have found this report useful and that its reading has reinforced your belief that being part of it, as a speaker, a sponsor and/or an attendee, helps to support the coordination and growth of the Security and Free Software community 🤝<br><br>
-    See you next year at Pass the SALT 2024 🤞 💚</b>
-    </td>
-  </tr>
-  </table><br><br>
+Pass the SALT is [since day one a free conference](https://www.pass-the-salt.org/about/#how-to-reach-our-goals) (as in free beer) that gives access to the attendees to all talks, workshops but also pauses and social events at no cost. 
 
-  <a href="https://twitter.com/xme/status/1676841552411328512"><img src="/images/memories.jpg"  height=50% width=50% alt="main-screen"></a>
+For us, it is the way to ensure that anybody, regardless of his context and financial capabilities, can have access to state-of-the-art knowledge in Security and Free Software areas but also to exchanges with all community members.
+
+We have seen **some evolution in our sponsors line-up**: a long time supporter decided to move away (Google) and we are very grateful for its long-term support. We have also welcomed **three new sponsors** (**Passbolt**, **Cyberzen** and **Seek IT Security**) and we thank them warmly to **join others sponsors and partners** (**Gandi**, **Quarkslab**, **Lexfo**, **Synacktiv**, **Randorisec** and **Polytech**) to allow us to run this new edition 👍️ 
+
+The organization team really wants to thank all our [sponsors and partners](https://2024.pass-the-salt.org/#sponsors) for their support and without who nothing would have been possible 👏🙏
+
+![sponsors](/images/report-sponsors.png)
+
+In order to provide transparency to all but also to help everybody who would like to launch their own event, whe share the big lines of the budget:
+
+**Approx. Budget: 15.000€~**
+
+**Approx. Budget breakdown in %:**
+- **35.3%:** catering (pauses, social event, spearkers dinner)
+- **33.2%:** travel expenses reimbursement
+- **22.0%:** onsite communication, identification and rewards expenses (badges, lanyards, tokens, kakemonos, stickers, speakers rewards etc)
+- **8.5%:** onsite private security company services (*) 
+- **2%:** recurrent expenses (bank account, servers, domain name etc).
+
+(*) **New requirement in 2024:** due to the highest level of terrorism threat on all the French territory, Polytech has been required to have private access control forces for all events held into its building. So, we have inherited this obligation. We are crossing fingers to see this requirement cancelled after the end of Olympic Games 🤞
+
+## Some org team thoughts 
+
+### Collaboration born from discussions during the conference
+
+[Sharing and collaboration](https://www.pass-the-salt.org/about/#our-goals-for-pass-the-salt) are the main reason behind the existence of this conference and we are delighted to share these first two accomplishments that emerged directly from discussions during the 2024 edition:
+- [Quentin JEROME](https://github.com/qjerome), [Kunai](https://github.com/kunai-project/kunai) main developer, [added logs rotation](https://x.com/passthesaltcon/status/1814267712165572687) with max size and compression to his product 2 weeks after a discussion with attendees (@xme and @DavidSzili ?) during the conference 👏
+- very early discussions started between **Certificate Transparency** community members and an Internet provider in order to evaluate the opportunity to implement the first CT log in Europe. let's see where this will take us🤞🙏
+
+You can find **all the collaborations that were born during the conference** (at least those we heard of!) on the [dedicated page](https://www.pass-the-salt.org/achievements/#contributions) of our website 🙏❤️
+
+### Cool but expert and open minded speakers
+
+Before concluding, just a nice side note to illustrate the kind of relaxed yet high-level speakers you can have access to **freely** (as in free beer but also as in free speech) and **easily** during Pass the SALT talks, workshops and social moments:
+
+>- a close friend of us (and speaker!) told us on last day that he sadly wasn't able to attend the workshop about Landlock (an open source Linux application sandboxing solution),
+>- we answered that we can introduce him to Mickaël Salaün who gave the workshop,
+>- after the exchange, our friend came back to us happy but also shaken: _"Mickaël answered to all my questions, it is wonderful! But I was shocked because I discovered during the talk that he wasn't an advanced user of Landlock like I presumed before but he was ... the Linux kernel developer who designed, developed and landed Landlock into the Linux Kernel 👀 Nothing less than that, it is incredible!"_ 😉❤️🚀
+
+It is for us the perfect illustration of what we want to provide to all the Security & Free Software community members, old and new: **a free, open and human sized event** where everybody can listen, exchange and collaborate easily with **high level yet accessible and open minded speakers from all over the world** 🙏
+
+![experts](/images/report-experts.png)
+
+### Team is growing 🫶
+This year, we welcomed two new and young members inside the D-day org team. They have brought with them their volunteer and event organization experience alongside their enthusiasm. Thanks a lot to them! 
+    
+Their arrival also forced us to better document the way we operated before the conference, as well as during the event itself. We really hope it has been enough but their feedback seems to indicate that we haven't been too bad as they have already engaged themselves to be there next year 😉
+
+### Some innovations
+**Privacy lanyards:** last year, we have tried to increase **privacy** during the event for our attendees who wanted to by providing them a **specific lanyard** which indicates to all others participants that they don't want to appear on photos. Due to its 2023 success, we have perpetuated it! 
+
+**AI:** his year, like many of you, we have **given a try to AI** to generate **some of our images to communicate** on social media.
+
+![ai](/images/report-ai.png)
+
+**Badges:** last, as each edition, we provide **wooden badges** (openly documented of course). And this year, inspiration has not been so hard to find 😉
+
+![badges](/images/report-badges.png)
+
+## Conclusion
+
+Finally, according to survey results, speakers and attendees feedback, 2024 edition seems to have been a good one 🙂 All the speakers got the opportunity to share their last research and development with their community but also with people (attendees and speakers) coming from other communities of the Security and Free Software landscape. And this, in the relaxed atmosphere of a human sized event! ❤️
+
+We know that we have a lot of work ahead of us to address the different improvements asked by speakers and attendees, we are going to do our best to reach their expectations!
+
+We let the finals words go to two of our great speakers:<br>
+*Src: speakers survey*
+
+- Xavier Mertens aka [@xme](https://x.com/xme): *"Awesome as usual. Small event but a concentration of crazy people"*
+- Thomas Chopitea aka [@tomchop_](https://x.com/tomchop_): *"As usual, PTS is a great event with a tight-knit community. I love coming here and interacting with speakers, attendees, and organizers :)"*
+
+<img src="/images/report-team.jpg" width="609"/><br>
+
+It has been a blast! See you at #PTS25! 👋 😘<br>
+**Pass the SALT 2024 organization team**
