@@ -109,16 +109,16 @@ We are pleased to see (a little) more non French speakers coming to Pass the SAL
 - **All slides** have also been [put online](https://archives.pass-the-salt.org/Pass%20the%20SALT/2024/slides/) at the end of the conference on our [archives site](https://archives.pass-the-salt.org/Pass%20the%20SALT/) 🚀
 
 *Our feedback:*
-> - **(near) Emergency video team replacement.** This year, due to a late agenda conflict, our friends and partners from [Ubiscast](https://www.ubicast.eu/), who previously managed on-site recording and streaming of the conference, **haven't been able to come on site**. It was quite a problem for us because the organization team does not have the manpower nor the know-how to record/stream an event like Pass the SALT.
+> - **(near) Emergency video team replacement.** This year, due to a late agenda conflict, our friends and partners from [Ubicast](https://www.ubicast.eu/), who previously managed on-site recording and streaming of the conference, **haven't been able to come on site**. It was quite a problem for us because the organization team does not have the manpower nor the know-how to record/stream an event like Pass the SALT.
 > - As we are big fans of [Cooper](https://x.com/ministraitor)'s [recording work](https://administraitor.video/) during many infosec conferences we have attended/talked, we asked him (very lately!) if he would be able to come to record our talks. And guess what? He said *"Yes, I can!"* 😍
 > - And everything worked like a charm! Cooper did a fantastic job (recording, fixing all potential problems with the help of blazing fast Laurent, the Polytech video guy). 
 > - We are **so thankful to Cooper for his commitment, his hard and quality work and his willingness to interact smoothly with all team members!** Thanks so much from all the team! 🙏
-> - The **Ubicast team** has been there to answer all our questions and to provide the infrastructre and the video portal to do the streaming. **Thanks a lot** to us!
+> - The **Ubicast team** has been there to answer all our questions very efficiently and to provide the infrastructre and the video portal to do the streaming. **Thanks a lot to them!**
 > - Finally, hats off to the volunteers in the audience who helped out with the video camera during the conference!
 
 ### 2024 highlights
 
-- **Sessions:** after boot security security and supply chain security in 2023, this year again, we managed to setup a new session alongside regular ones (DFIR, low level, reverse, network, pentest, crypto etc): **WebPKI and Trust**. 
+- **Sessions:** after boot security and supply chain security in 2023, this year again, we managed to setup a new session alongside regular ones (DFIR, low level, reverse, network, pentest, crypto etc): **WebPKI and Trust**. 
 
 During this session, we had the opportunity to receive on the same stage Aaron Gable and Philippe Boneff, tech leaders of two major projects for Web security: Let's Encrypt and Certificate Transparency software at Google. This new session seems to have been really appreciated by attendees and surely, by the team. 🙏
 
@@ -185,9 +185,9 @@ But 2 points were cited half less than other: foodtrucks for lunch and the socia
 
 ![speakers experience](/images/report-speakers.png)
 
-Speakers have globally really appreciated to:
-- come to the event to deliver their talk/WS, 
-- attend others talks and interact during social moments with speakers of their session but also those coming from other communities (low level and reverse, crypto, PKI, network and system...).
+Speakers have globally really appreciated:
+- coming to the event to deliver their talk/WS, 
+- attending others talks and interact during social moments with speakers of their session but also those coming from other communities (low level and reverse, crypto, PKI, network and system...).
 
 🎁 The reward bag (with of course, some grams of flower of salt inside 😉) we provided to reward our commited speakers has been really appreciated too!
 
@@ -206,7 +206,7 @@ But there is always room for improvement :)
 
 Pass the SALT is [since day one a free conference](https://www.pass-the-salt.org/about/#how-to-reach-our-goals) (as in free beer) that gives access to the attendees to all talks, workshops but also pauses and social events at no cost. 
 
-For us, it is the way to ensure that anybody, regardless of his context and financial capabilities, can have access to state-of-the-art knowledge in Security and Free Software areas but also to exchanges with all community members.
+For us, it is the way to ensure that anybody, regardless of their context and financial capabilities, can have access to state-of-the-art knowledge in Security and Free Software areas but also to exchanges with all community members.
 
 We have seen **some evolution in our sponsors line-up**: a long time supporter decided to move away (Google) and we are very grateful for its long-term support. We have also welcomed **three new sponsors** (**Passbolt**, **Cyberzen** and **Seek IT Security**) and we thank them warmly to **join others sponsors and partners** (**Gandi**, **Quarkslab**, **Lexfo**, **Synacktiv**, **Randorisec** and **Polytech**) to allow us to run this new edition 👍️ 
 
@@ -257,7 +257,7 @@ Their arrival also forced us to better document the way we operated before the c
 ### Some innovations
 **Privacy lanyards:** last year, we have tried to increase **privacy** during the event for our attendees who wanted to by providing them a **specific lanyard** which indicates to all others participants that they don't want to appear on photos. Due to its 2023 success, we have perpetuated it! 
 
-**AI:** his year, like many of you, we have **given a try to AI** to generate **some of our images to communicate** on social media.
+**AI:** this year, like many of you, we have **given a try to AI** to generate **some of our images to communicate** on social media.
 
 ![ai](/images/report-ai.png)
 
