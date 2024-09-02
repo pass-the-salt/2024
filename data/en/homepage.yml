@@ -6,8 +6,8 @@ banner:
   image: "images/logo-pts23.png"
   button:
     enable: true
-    label: "Videos"
-    link: "https://passthesalt.ubicast.tv/channels/#2024"
+    label: "Our annual report"
+    link: "/annual-report/"
 
 ############################# description ############################
 description:

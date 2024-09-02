@@ -77,14 +77,14 @@ url = "https://www.flickr.com/photos/yobibe/albums/72177720318671117/"
 weight = 3
 
 [[menu.main]]
-name = "Practical information"
+name = "Practical"
 url = "https://2024.pass-the-salt.org/practical/"
 weight = 4
 
-# [[menu.main]]
-# name = "Report"
-# url = "https://2023.pass-the-salt.org/annual-report/"
-# weight = 4
+[[menu.main]]
+name = "Report"
+url = "https://2024.pass-the-salt.org/annual-report/"
+weight = 4
 
 [[menu.main]]
 name = "Sponsors"

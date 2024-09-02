@@ -233,11 +233,11 @@ In order to provide transparency to all but also to help everybody who would lik
 
 [Sharing and collaboration](https://www.pass-the-salt.org/about/#our-goals-for-pass-the-salt) are the main reason behind the existence of this conference and we are delighted to share these first two accomplishments that emerged directly from discussions during the 2024 edition:
 - [Quentin JEROME](https://github.com/qjerome), [Kunai](https://github.com/kunai-project/kunai) main developer, [added logs rotation](https://x.com/passthesaltcon/status/1814267712165572687) with max size and compression to his product 2 weeks after a discussion with attendees (@xme and @DavidSzili ?) during the conference 👏
-- very early discussions started between **Certificate Transparency** community members and an Internet provider in order to evaluate the opportunity to implement the first CT log in Europe. let's see where this will take us🤞🙏
+- very early discussions started between **Certificate Transparency** community members and an Internet provider in order to evaluate the opportunity to implement the first CT log in Europe. Let's see where this will take us🤞🙏
 
 You can find **all the collaborations that were born during the conference** (at least those we heard of!) on the [dedicated page](https://www.pass-the-salt.org/achievements/#contributions) of our website 🙏❤️
 
-### Cool but expert and open minded speakers
+### Expert but cool and open minded speakers
 
 Before concluding, just a nice side note to illustrate the kind of relaxed yet high-level speakers you can have access to **freely** (as in free beer but also as in free speech) and **easily** during Pass the SALT talks, workshops and social moments:
 
